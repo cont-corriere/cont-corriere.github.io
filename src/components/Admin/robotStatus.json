@@ -1,0 +1,36 @@
+{
+	"robots": [
+		{
+			"robot": {
+				"id": "COR-001",
+				"location": "Tampines",
+				"status": "OK",
+				"containers": [true, true, true, true]
+			}
+		},
+		{
+			"robot": {
+				"id": "COR-002",
+				"location": "SUTD",
+				"status": "OK",
+				"containers": [false, true, false, true]
+			}
+		},
+		{
+			"robot": {
+				"id": "COR-003",
+				"location": "Punggol",
+				"status": "OK",
+				"containers": [true, true, true, false]
+			}
+		},
+		{
+			"robot": {
+				"id": "COR-004",
+				"location": "Yishun",
+				"status": "OK",
+				"containers": [false, false, false, true]
+			}
+		}
+	]
+}

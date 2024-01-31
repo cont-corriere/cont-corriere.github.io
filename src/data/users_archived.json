@@ -1,0 +1,26 @@
+[
+	{
+		"email": "johncena@gmail.com",
+		"password": "john1234",
+		"name": "John Cena",
+		"accountType": "customer"
+	},
+	{
+		"email": "brocklesnar@gmail.com",
+		"password": "brock1234",
+		"name": "John Cena",
+		"accountType": "customer"
+	},
+	{
+		"email": "therock@gmail.com",
+		"password": "rock1234",
+		"name": "Dwayne The Rock Johnson",
+		"accountType": "retailer"
+	},
+	{
+		"email": "oakar@gmail.com",
+		"password": "oakar123",
+		"name": "Oakar",
+		"accountType": "admin"
+	}
+]
